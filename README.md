@@ -11,9 +11,9 @@
 ### About Me
 
 - **Education**
-  - Computer Science student @ **University of Sydney (USYD)**
-  - Exchange student @ **The University of Hong Kong (HKU)**
-  - Previously studied at **South China University of Technology (SCUT)**
+  - 🇦🇺 Computer Science student @ **University of Sydney (USYD)**
+  - 🇭🇰 Exchange student @ **The University of Hong Kong (HKU)**
+  - 🇨🇳 Former student at **South China University of Technology (SCUT)**
 - **Interests**
   - Vibecoding: using AI to move from idea to working software faster
   - AI-native software: practical tools, automation, and modern engineering stacks
