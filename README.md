@@ -2,20 +2,17 @@
 
 # Hi 👋, I'm Jimmy (Junyu) Lu 🌊
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Computer+Science+Student;AI-Native+Builder;Former+SCUT+Student;Vibecoding+%2B+Practical+Software+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Computer+Science+Student;AI-Native+Builder;Vibecoding+%2B+Practical+Software+Engineering" alt="Typing SVG" />
 
 [![Vibecoding](https://img.shields.io/badge/Vibecoding-AI%20Programming-ff69b4?style=flat-square&logo=openai&logoColor=white)](#)
 [![Open to Work](https://img.shields.io/badge/Open%20to-Internships%20%26%20Jobs-2ea44f?style=flat-square)](#)
-[![SCUT](https://img.shields.io/badge/Former%20Student-SCUT-005BAC?style=flat-square)](#)
 
 </div>
 
 ---
 
 ### 💻 About Me
-* 🎓 **Education**: Computer Science student @ **University of Sydney (USYD)**
-* 🌏 **Current Status**: Exchange student @ **The University of Hong Kong (HKU)** 🏛️
-* 🏫 **Background**: Former student @ **South China University of Technology (SCUT / 华南理工大学)**
+* 🎓 **Education**: Computer Science student @ **University of Sydney (USYD)**; exchange student @ **The University of Hong Kong (HKU)**; pre **SCUT**
 * 🤖 **Interests**:
   * **Vibecoding**: Leveraging AI to write code efficiently and build faster. 🎧💻
   * **AI-native software**: Turning ideas into practical tools with modern engineering stacks.
